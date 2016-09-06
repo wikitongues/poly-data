@@ -1,0 +1,92 @@
+[
+  {
+    "id": 41,
+    "title": "Useful phrases in Spanish",
+    "created_at": "2016-04-04T17:25:51.450144",
+    "updated_at": "2016-07-14T22:26:16.691396",
+    "description": "Whether you're exploring South America or discovering Spain, general Spanish is a beautiful and rich language to learn.",
+    "source_language": "English",
+    "target_language": "Spanish",
+    "user_id": 1
+  },
+  {
+    "id": 64,
+    "title": "ASL for beginners",
+    "created_at": "2016-07-25T18:17:01.212462",
+    "updated_at": "2016-07-25T18:17:01.212462",
+    "description": "With this short handy book, get ready to dip your toes into the rewarding world of ASL!",
+    "source_language": "English",
+    "target_language": "American Sign Language",
+    "user_id": 1
+  },
+  {
+    "id": 33,
+    "title": "Introduction to Mandarin ",
+    "created_at": "2016-04-02T21:16:15.690317",
+    "updated_at": "2016-04-04T04:45:04.007983",
+    "description": "Mandarin Chinese is the official language of Mainland China and Taiwan, and is one of the official languages of Singapore. In English, it is often just called \"Mandarin\" or \"Chinese\". In China, it is called Putonghua (普通话), meaning \"common speech\", while in Taiwan it is referred to as Guoyu (國語), \"the national language.\" It has been the main language of education in China (excluding Hong Kong and Macau) since the 1950s. Standard Mandarin is close to, but not quite identical with, the Mandarin dialect of the Beijing area. In Singapore, it is officially referred to as HuaYu (华语).",
+    "source_language": "English",
+    "target_language": "Mandarin",
+    "user_id": 3
+  },
+  {
+    "id": 36,
+    "title": "Welcome to Pretoria",
+    "created_at": "2016-04-03T01:54:38.667083",
+    "updated_at": "2016-04-04T17:28:50.044997",
+    "description": "Make friends in Pretoria like a local!",
+    "source_language": "English",
+    "target_language": "Afrikaans",
+    "user_id": 1
+  },
+  {
+    "id": 45,
+    "title": "Introduccion al catalan",
+    "created_at": "2016-04-21T02:41:28.960444",
+    "updated_at": "2016-04-21T02:41:28.960444",
+    "description": "",
+    "source_language": "Español",
+    "target_language": "Catalan",
+    "user_id": 3
+  },
+  {
+    "id": 46,
+    "title": "Evolution in french",
+    "created_at": "2016-04-21T02:42:01.578741",
+    "updated_at": "2016-04-21T02:42:01.578741",
+    "description": "",
+    "source_language": "English",
+    "target_language": "French",
+    "user_id": 9
+  },
+  {
+    "id": 47,
+    "title": "Speciation, in Italian",
+    "created_at": "2016-04-21T02:42:27.255777",
+    "updated_at": "2016-04-21T02:42:34.59606",
+    "description": "",
+    "source_language": "English",
+    "target_language": "Italian",
+    "user_id": 9
+  },
+  {
+    "id": 42,
+    "title": "Useful phrases in Greek",
+    "created_at": "2016-03-05T17:26:02",
+    "updated_at": "2016-04-21T19:23:26.393492",
+    "description": "Greek or Hellenic (Modern Greek: ελληνικά [eliniˈka], elliniká, \"Greek\", ελληνική γλώσσα [eliniˈci ˈɣlosa], ellinikí glóssa, \"Greek language\") is an independent branch of the Indo-European family of languages, native to the southern Balkans, the Aegean Islands, western Asia Minor, parts of northern and Eastern Anatolia and the South Caucasus, southern Italy, Albania and Cyprus. It has the longest documented history of any single clearly-defined Indo-European language, spanning 34 centuries of written records. Its writing system has been the Greek alphabet for the majority of its history; other systems, such as Linear B and the Cypriot syllabary, were used previously. The alphabet arose from the Phoenician script and was in turn the basis of the Latin, Cyrillic, Armenian, Coptic, Gothic and many other writing systems.\nFrom Wikipedia",
+    "source_language": "English",
+    "target_language": "Greek",
+    "user_id": 1
+  },
+  {
+    "id": 56,
+    "title": "Introduction to Japanese (Part 1)",
+    "created_at": "2016-07-14T23:46:38.64721",
+    "updated_at": "2016-07-20T22:22:29.83277",
+    "description": "OK, so you've decided, that you'd like to learn some of the most common and well-known phrases in Japanese. Or you already know some words, but are not quite sure about their meaning. This is the right section for you.",
+    "source_language": "English",
+    "target_language": "Japanese (日本語)",
+    "user_id": 1
+  }
+]

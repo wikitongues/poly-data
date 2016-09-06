@@ -1,0 +1,575 @@
+[
+  {
+    "id": 41,
+    "title": "Useful phrases in Spanish",
+    "created_at": "2016-04-04T17:25:51.450144",
+    "updated_at": "2016-07-14T22:26:16.691396",
+    "description": "Whether you're exploring South America or discovering Spain, general Spanish is a beautiful and rich language to learn.",
+    "source_language": "English",
+    "target_language": "Spanish",
+    "user_id": 1,
+    "phrase_pairs": [
+      {
+        "id": 196,
+        "created_at": "2016-04-15T20:05:49.76794",
+        "updated_at": "2016-07-18T18:37:29.885753",
+        "source_phrase": "Do you speak English?",
+        "target_phrase": "¿Habla inglés?"
+      },
+      {
+        "id": 197,
+        "created_at": "2016-04-15T20:06:09.694224",
+        "updated_at": "2016-07-18T18:16:48.9532",
+        "source_phrase": "Do you speak Spanish?",
+        "target_phrase": "¿Habla usted Español?"
+      },
+      {
+        "id": 174,
+        "created_at": "2016-04-15T20:01:16.919376",
+        "updated_at": "2016-04-15T20:01:16.919376",
+        "source_phrase": "Reply to 'How are you?'",
+        "target_phrase": "Bien Gracias, ¿y tú?"
+      },
+      {
+        "id": 175,
+        "created_at": "2016-04-15T20:01:36.758303",
+        "updated_at": "2016-04-15T20:01:36.758303",
+        "source_phrase": "Long time no see",
+        "target_phrase": "¡Cuánto tiempo!"
+      },
+      {
+        "id": 176,
+        "created_at": "2016-04-15T20:01:48.340168",
+        "updated_at": "2016-04-15T20:01:48.340168",
+        "source_phrase": "What's your name?",
+        "target_phrase": "¿Cómo te llamas?"
+      },
+      {
+        "id": 177,
+        "created_at": "2016-04-15T20:02:03.451775",
+        "updated_at": "2016-04-15T20:02:03.451775",
+        "source_phrase": "My name is ~",
+        "target_phrase": "Mi nombre es ~"
+      },
+      {
+        "id": 178,
+        "created_at": "2016-04-15T20:02:14.275403",
+        "updated_at": "2016-04-15T20:02:14.275403",
+        "source_phrase": "Where are you from?",
+        "target_phrase": "¿De dónde eres?"
+      },
+      {
+        "id": 179,
+        "created_at": "2016-04-15T20:02:19.874689",
+        "updated_at": "2016-04-15T20:02:19.874689",
+        "source_phrase": "I'm from ~",
+        "target_phrase": "Soy de ~"
+      },
+      {
+        "id": 180,
+        "created_at": "2016-04-15T20:02:26.46728",
+        "updated_at": "2016-04-15T20:02:26.46728",
+        "source_phrase": "Pleased to meet you",
+        "target_phrase": "Mucho gusto"
+      },
+      {
+        "id": 181,
+        "created_at": "2016-04-15T20:02:33.322864",
+        "updated_at": "2016-04-15T20:02:33.322864",
+        "source_phrase": "Good morning",
+        "target_phrase": "Buenos dias"
+      },
+      {
+        "id": 182,
+        "created_at": "2016-04-15T20:02:39.202656",
+        "updated_at": "2016-04-15T20:02:39.202656",
+        "source_phrase": "Good afternoon",
+        "target_phrase": "Buenas tardes"
+      },
+      {
+        "id": 184,
+        "created_at": "2016-04-15T20:03:02.264462",
+        "updated_at": "2016-04-15T20:03:02.264462",
+        "source_phrase": "Good night",
+        "target_phrase": "Buenas noches"
+      },
+      {
+        "id": 183,
+        "created_at": "2016-04-15T20:02:50.985124",
+        "updated_at": "2016-04-15T20:03:18.936857",
+        "source_phrase": "Good evening",
+        "target_phrase": "Buenas tardes / Buenas noches"
+      },
+      {
+        "id": 185,
+        "created_at": "2016-04-15T20:03:32.888517",
+        "updated_at": "2016-04-15T20:03:32.888517",
+        "source_phrase": "Goodbye",
+        "target_phrase": "Adiós"
+      },
+      {
+        "id": 186,
+        "created_at": "2016-04-15T20:03:52.398359",
+        "updated_at": "2016-04-15T20:03:52.398359",
+        "source_phrase": "Good luck",
+        "target_phrase": "¡Buena suerte!"
+      },
+      {
+        "id": 187,
+        "created_at": "2016-04-15T20:04:01.925207",
+        "updated_at": "2016-04-15T20:04:01.925207",
+        "source_phrase": "Cheers!",
+        "target_phrase": "¡Salud!"
+      },
+      {
+        "id": 188,
+        "created_at": "2016-04-15T20:04:13.821415",
+        "updated_at": "2016-04-15T20:04:13.821415",
+        "source_phrase": "Have a nice day",
+        "target_phrase": "¡Que pase un buen día!"
+      },
+      {
+        "id": 189,
+        "created_at": "2016-04-15T20:04:29.355249",
+        "updated_at": "2016-04-15T20:04:29.355249",
+        "source_phrase": "Bon appetit / have a nice meal",
+        "target_phrase": "¡Buen provecho!"
+      },
+      {
+        "id": 190,
+        "created_at": "2016-04-15T20:04:40.763173",
+        "updated_at": "2016-04-15T20:04:40.763173",
+        "source_phrase": "Bon voyage / Have a good journey",
+        "target_phrase": "¡Buen viaje!"
+      },
+      {
+        "id": 191,
+        "created_at": "2016-04-15T20:04:51.676225",
+        "updated_at": "2016-04-15T20:04:51.676225",
+        "source_phrase": "I don't know",
+        "target_phrase": "No sé"
+      },
+      {
+        "id": 192,
+        "created_at": "2016-04-15T20:05:01.426141",
+        "updated_at": "2016-04-15T20:05:01.426141",
+        "source_phrase": "I understand ",
+        "target_phrase": "Entiendo"
+      },
+      {
+        "id": 193,
+        "created_at": "2016-04-15T20:05:08.466504",
+        "updated_at": "2016-04-15T20:05:08.466504",
+        "source_phrase": "I don't understand",
+        "target_phrase": "No entiendo"
+      },
+      {
+        "id": 194,
+        "created_at": "2016-04-15T20:05:20.904322",
+        "updated_at": "2016-04-15T20:05:20.904322",
+        "source_phrase": "Please speak more slowly",
+        "target_phrase": "Por favor hable más despacio"
+      },
+      {
+        "id": 195,
+        "created_at": "2016-04-15T20:05:39.560286",
+        "updated_at": "2016-04-15T20:05:39.560286",
+        "source_phrase": "Please write it down",
+        "target_phrase": "¿Puede escribirlo, por favor?"
+      },
+      {
+        "id": 198,
+        "created_at": "2016-04-15T20:06:27.468964",
+        "updated_at": "2016-07-18T18:19:34.227505",
+        "source_phrase": "Yes, I speak a little Spanish",
+        "target_phrase": "Sí, hablo un poquito de Español"
+      },
+      {
+        "id": 171,
+        "created_at": "2016-04-15T20:00:12.717709",
+        "updated_at": "2016-07-18T18:36:50.422658",
+        "source_phrase": "Welcome",
+        "target_phrase": "Bienvenido"
+      },
+      {
+        "id": 172,
+        "created_at": "2016-04-15T20:00:17.657418",
+        "updated_at": "2016-07-14T23:39:31.571643",
+        "source_phrase": "Hello",
+        "target_phrase": "Hola"
+      },
+      {
+        "id": 173,
+        "created_at": "2016-04-15T20:00:54.351251",
+        "updated_at": "2016-07-14T23:42:01.943359",
+        "source_phrase": "How are you?",
+        "target_phrase": "¿Cómo estás?"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "title": "ASL for beginners",
+    "created_at": "2016-07-25T18:17:01.212462",
+    "updated_at": "2016-07-25T18:17:01.212462",
+    "description": "With this short handy book, get ready to dip your toes into the rewarding world of ASL!",
+    "source_language": "English",
+    "target_language": "American Sign Language",
+    "user_id": 1,
+    "phrase_pairs": []
+  },
+  {
+    "id": 33,
+    "title": "Introduction to Mandarin ",
+    "created_at": "2016-04-02T21:16:15.690317",
+    "updated_at": "2016-04-04T04:45:04.007983",
+    "description": "Mandarin Chinese is the official language of Mainland China and Taiwan, and is one of the official languages of Singapore. In English, it is often just called \"Mandarin\" or \"Chinese\". In China, it is called Putonghua (普通话), meaning \"common speech\", while in Taiwan it is referred to as Guoyu (國語), \"the national language.\" It has been the main language of education in China (excluding Hong Kong and Macau) since the 1950s. Standard Mandarin is close to, but not quite identical with, the Mandarin dialect of the Beijing area. In Singapore, it is officially referred to as HuaYu (华语).",
+    "source_language": "English",
+    "target_language": "Mandarin",
+    "user_id": 3,
+    "phrase_pairs": [
+      {
+        "id": 122,
+        "created_at": "2016-04-04T05:05:04.860332",
+        "updated_at": "2016-04-04T05:05:04.860332",
+        "source_phrase": "My name is ______ . ",
+        "target_phrase": "我叫 _____ 。 Wǒ jiào ______ ."
+      },
+      {
+        "id": 123,
+        "created_at": "2016-04-04T05:05:21.037547",
+        "updated_at": "2016-04-04T05:05:21.037547",
+        "source_phrase": "Nice to meet you. ",
+        "target_phrase": "很高兴认识你。 Hěn gāoxìng rènshì nǐ."
+      },
+      {
+        "id": 100,
+        "created_at": "2016-04-02T21:22:12.035302",
+        "updated_at": "2016-04-04T04:35:47.058553",
+        "source_phrase": "Hello",
+        "target_phrase": "你好。 Nǐ hǎo. "
+      },
+      {
+        "id": 109,
+        "created_at": "2016-04-04T04:07:47.038663",
+        "updated_at": "2016-04-04T04:35:51.622517",
+        "source_phrase": "How are you? ",
+        "target_phrase": "你好吗？ Nǐ hǎo ma?"
+      },
+      {
+        "id": 119,
+        "created_at": "2016-04-04T05:03:19.625124",
+        "updated_at": "2016-04-04T05:03:19.625124",
+        "source_phrase": "Fine, thank you. ",
+        "target_phrase": "很好, 谢谢。 Hěn hǎo, xièxie."
+      },
+      {
+        "id": 120,
+        "created_at": "2016-04-04T05:03:35.693206",
+        "updated_at": "2016-04-04T05:03:35.693206",
+        "source_phrase": "May I please ask, what is your name? ",
+        "target_phrase": "请问你叫什么名? Qǐngwèn nǐjiào shěnme míng?"
+      },
+      {
+        "id": 121,
+        "created_at": "2016-04-04T05:03:44.825622",
+        "updated_at": "2016-04-04T05:03:44.825622",
+        "source_phrase": "What is your name? ",
+        "target_phrase": "你叫什么名字？ Nǐ jiào shénme míngzi?"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Welcome to Pretoria",
+    "created_at": "2016-04-03T01:54:38.667083",
+    "updated_at": "2016-04-04T17:28:50.044997",
+    "description": "Make friends in Pretoria like a local!",
+    "source_language": "English",
+    "target_language": "Afrikaans",
+    "user_id": 1,
+    "phrase_pairs": [
+      {
+        "id": 108,
+        "created_at": "2016-04-03T01:54:56.424091",
+        "updated_at": "2016-04-08T17:31:07.432622",
+        "source_phrase": "Let's start",
+        "target_phrase": "Kom ons begin"
+      },
+      {
+        "id": 135,
+        "created_at": "2016-04-08T17:31:20.408377",
+        "updated_at": "2016-04-08T17:31:20.408377",
+        "source_phrase": "Hello",
+        "target_phrase": "Hallo"
+      },
+      {
+        "id": 136,
+        "created_at": "2016-04-08T17:31:31.439294",
+        "updated_at": "2016-04-08T17:31:31.439294",
+        "source_phrase": "Good morning",
+        "target_phrase": "Goeie môre"
+      },
+      {
+        "id": 137,
+        "created_at": "2016-04-08T17:31:41.141695",
+        "updated_at": "2016-04-08T17:31:41.141695",
+        "source_phrase": "Good afternoon",
+        "target_phrase": "Goeie middag"
+      },
+      {
+        "id": 138,
+        "created_at": "2016-04-08T17:31:50.830591",
+        "updated_at": "2016-04-08T17:31:50.830591",
+        "source_phrase": "How are you?",
+        "target_phrase": "Hoe gaan dit?"
+      },
+      {
+        "id": 139,
+        "created_at": "2016-04-08T17:32:08.75668",
+        "updated_at": "2016-04-08T17:32:08.75668",
+        "source_phrase": "Well thanks, and with you?",
+        "target_phrase": "Goed dankie en met jou?"
+      },
+      {
+        "id": 140,
+        "created_at": "2016-04-08T17:32:22.708915",
+        "updated_at": "2016-04-08T17:32:22.708915",
+        "source_phrase": "Ver well thanks.",
+        "target_phrase": "Baie goed dankie."
+      },
+      {
+        "id": 141,
+        "created_at": "2016-04-08T17:32:33.355688",
+        "updated_at": "2016-04-08T17:32:33.355688",
+        "source_phrase": "Thank you.",
+        "target_phrase": "Dankie."
+      },
+      {
+        "id": 142,
+        "created_at": "2016-04-08T17:32:47.469796",
+        "updated_at": "2016-04-08T17:32:58.211127",
+        "source_phrase": "What is your name?",
+        "target_phrase": "Wat is jou naam?"
+      },
+      {
+        "id": 143,
+        "created_at": "2016-04-08T17:39:34.233572",
+        "updated_at": "2016-04-08T17:39:34.233572",
+        "source_phrase": "My name is ~.",
+        "target_phrase": "My namm is ~."
+      },
+      {
+        "id": 144,
+        "created_at": "2016-04-08T17:39:46.173279",
+        "updated_at": "2016-04-08T17:39:46.173279",
+        "source_phrase": "Pleased to meet you.",
+        "target_phrase": "Aangename kennis"
+      },
+      {
+        "id": 145,
+        "created_at": "2016-04-08T17:40:00.388376",
+        "updated_at": "2016-04-08T17:40:00.388376",
+        "source_phrase": "Where are you from?",
+        "target_phrase": "War kom jy vandaan"
+      },
+      {
+        "id": 146,
+        "created_at": "2016-04-08T17:40:14.861967",
+        "updated_at": "2016-04-08T17:40:14.861967",
+        "source_phrase": "I come from ~.",
+        "target_phrase": "Ek kom van ~ af."
+      },
+      {
+        "id": 147,
+        "created_at": "2016-04-08T17:40:34.731377",
+        "updated_at": "2016-04-08T17:40:34.731377",
+        "source_phrase": "I cannot speak Afrikaans.",
+        "target_phrase": "Ek kan nie Afrikaans praat nie."
+      },
+      {
+        "id": 148,
+        "created_at": "2016-04-08T17:40:46.425597",
+        "updated_at": "2016-04-08T17:40:46.425597",
+        "source_phrase": "I am learning Afrikaans.",
+        "target_phrase": "Ek leer Afrikaans"
+      },
+      {
+        "id": 149,
+        "created_at": "2016-04-08T17:41:00.368446",
+        "updated_at": "2016-04-08T17:41:00.368446",
+        "source_phrase": "I can speak Afrikaans.",
+        "target_phrase": "Ek kan Afrikaans praat."
+      },
+      {
+        "id": 150,
+        "created_at": "2016-04-08T17:41:10.040017",
+        "updated_at": "2016-04-08T17:41:10.040017",
+        "source_phrase": "Goodbye",
+        "target_phrase": "Totsiens"
+      },
+      {
+        "id": 230,
+        "created_at": "2016-07-16T16:54:13.291025",
+        "updated_at": "2016-07-16T16:54:13.291025",
+        "source_phrase": "test",
+        "target_phrase": "test"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Introduccion al catalan",
+    "created_at": "2016-04-21T02:41:28.960444",
+    "updated_at": "2016-04-21T02:41:28.960444",
+    "description": "",
+    "source_language": "Español",
+    "target_language": "Catalan",
+    "user_id": 3,
+    "phrase_pairs": []
+  },
+  {
+    "id": 46,
+    "title": "Evolution in french",
+    "created_at": "2016-04-21T02:42:01.578741",
+    "updated_at": "2016-04-21T02:42:01.578741",
+    "description": "",
+    "source_language": "English",
+    "target_language": "French",
+    "user_id": 9,
+    "phrase_pairs": []
+  },
+  {
+    "id": 47,
+    "title": "Speciation, in Italian",
+    "created_at": "2016-04-21T02:42:27.255777",
+    "updated_at": "2016-04-21T02:42:34.59606",
+    "description": "",
+    "source_language": "English",
+    "target_language": "Italian",
+    "user_id": 9,
+    "phrase_pairs": []
+  },
+  {
+    "id": 42,
+    "title": "Useful phrases in Greek",
+    "created_at": "2016-03-05T17:26:02",
+    "updated_at": "2016-04-21T19:23:26.393492",
+    "description": "Greek or Hellenic (Modern Greek: ελληνικά [eliniˈka], elliniká, \"Greek\", ελληνική γλώσσα [eliniˈci ˈɣlosa], ellinikí glóssa, \"Greek language\") is an independent branch of the Indo-European family of languages, native to the southern Balkans, the Aegean Islands, western Asia Minor, parts of northern and Eastern Anatolia and the South Caucasus, southern Italy, Albania and Cyprus. It has the longest documented history of any single clearly-defined Indo-European language, spanning 34 centuries of written records. Its writing system has been the Greek alphabet for the majority of its history; other systems, such as Linear B and the Cypriot syllabary, were used previously. The alphabet arose from the Phoenician script and was in turn the basis of the Latin, Cyrillic, Armenian, Coptic, Gothic and many other writing systems.\nFrom Wikipedia",
+    "source_language": "English",
+    "target_language": "Greek",
+    "user_id": 1,
+    "phrase_pairs": [
+      {
+        "id": 151,
+        "created_at": "2016-04-08T17:51:17.219771",
+        "updated_at": "2016-04-08T17:51:17.219771",
+        "source_phrase": "Welcome",
+        "target_phrase": "Καλώς Όρισες (Kalós órises)"
+      },
+      {
+        "id": 152,
+        "created_at": "2016-04-08T17:51:26.965261",
+        "updated_at": "2016-04-08T17:51:26.965261",
+        "source_phrase": "Hello",
+        "target_phrase": "Γειά! (Ya) "
+      },
+      {
+        "id": 153,
+        "created_at": "2016-04-08T19:06:46.909621",
+        "updated_at": "2016-04-08T19:06:46.909621",
+        "source_phrase": "Hello (on phone)",
+        "target_phrase": "Έλα (Éla)"
+      },
+      {
+        "id": 154,
+        "created_at": "2016-04-08T19:06:58.89404",
+        "updated_at": "2016-04-08T19:06:58.89404",
+        "source_phrase": "How are you?",
+        "target_phrase": "Πώς είσαι; (Pos íse?)"
+      },
+      {
+        "id": 155,
+        "created_at": "2016-04-08T19:07:11.787324",
+        "updated_at": "2016-04-08T19:07:11.787324",
+        "source_phrase": "Reply to 'How are you?'",
+        "target_phrase": "Καλά (είμαι), ευχαριστώ. Εσύ; (Kalá [íme], efharistó. Esí?)"
+      },
+      {
+        "id": 156,
+        "created_at": "2016-04-08T19:07:38.21665",
+        "updated_at": "2016-04-08T19:07:38.21665",
+        "source_phrase": "Long time no see\\t",
+        "target_phrase": "Καιρό έχω να σε δω! (Keró ého na se do)"
+      },
+      {
+        "id": 157,
+        "created_at": "2016-04-08T19:07:57.665885",
+        "updated_at": "2016-04-08T19:07:57.665885",
+        "source_phrase": "What's your name?\\t",
+        "target_phrase": "Πώς σε λένε; (Pós se léne?)"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Introduction to Japanese (Part 1)",
+    "created_at": "2016-07-14T23:46:38.64721",
+    "updated_at": "2016-07-20T22:22:29.83277",
+    "description": "OK, so you've decided, that you'd like to learn some of the most common and well-known phrases in Japanese. Or you already know some words, but are not quite sure about their meaning. This is the right section for you.",
+    "source_language": "English",
+    "target_language": "Japanese (日本語)",
+    "user_id": 1,
+    "phrase_pairs": [
+      {
+        "id": 227,
+        "created_at": "2016-07-14T23:48:29.660136",
+        "updated_at": "2016-07-16T21:04:07.303257",
+        "source_phrase": "See you",
+        "target_phrase": "jaa - じゃあ"
+      },
+      {
+        "id": 228,
+        "created_at": "2016-07-14T23:48:36.659816",
+        "updated_at": "2016-07-16T21:04:12.395468",
+        "source_phrase": "Goodbye",
+        "target_phrase": "sayonara - さようなら"
+      },
+      {
+        "id": 226,
+        "created_at": "2016-07-14T23:48:20.834761",
+        "updated_at": "2016-07-16T21:04:20.35585",
+        "source_phrase": "Good night",
+        "target_phrase": "oyasumi (nasai) - おやすみ(なさい)"
+      },
+      {
+        "id": 225,
+        "created_at": "2016-07-14T23:48:06.566496",
+        "updated_at": "2016-07-16T21:04:24.067253",
+        "source_phrase": "Good evening",
+        "target_phrase": "\\t konbanwa - こんばんは"
+      },
+      {
+        "id": 222,
+        "created_at": "2016-07-14T23:47:06.037685",
+        "updated_at": "2016-07-14T23:47:06.037685",
+        "source_phrase": "Nice to meet you",
+        "target_phrase": "hajime mash'te - はじめまして"
+      },
+      {
+        "id": 223,
+        "created_at": "2016-07-14T23:47:44.655368",
+        "updated_at": "2016-07-14T23:47:44.655368",
+        "source_phrase": "Good morning",
+        "target_phrase": "ohayoo (gozaimas')  - おはよう(ございます)"
+      },
+      {
+        "id": 224,
+        "created_at": "2016-07-14T23:47:57.173622",
+        "updated_at": "2016-07-14T23:47:57.173622",
+        "source_phrase": "Good afternoon",
+        "target_phrase": "konnichiwa - こんにちは"
+      }
+    ]
+  }
+]

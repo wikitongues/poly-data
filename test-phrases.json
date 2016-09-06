@@ -1,0 +1,930 @@
+[
+  {
+    "id": 122,
+    "created_at": "2016-04-04T05:05:04.860332",
+    "updated_at": "2016-04-04T05:05:04.860332",
+    "source_phrase": "My name is ______ . ",
+    "target_phrase": "我叫 _____ 。 Wǒ jiào ______ .",
+    "book_id": 33
+  },
+  {
+    "id": 123,
+    "created_at": "2016-04-04T05:05:21.037547",
+    "updated_at": "2016-04-04T05:05:21.037547",
+    "source_phrase": "Nice to meet you. ",
+    "target_phrase": "很高兴认识你。 Hěn gāoxìng rènshì nǐ.",
+    "book_id": 33
+  },
+  {
+    "id": 100,
+    "created_at": "2016-04-02T21:22:12.035302",
+    "updated_at": "2016-04-04T04:35:47.058553",
+    "source_phrase": "Hello",
+    "target_phrase": "你好。 Nǐ hǎo. ",
+    "book_id": 33
+  },
+  {
+    "id": 109,
+    "created_at": "2016-04-04T04:07:47.038663",
+    "updated_at": "2016-04-04T04:35:51.622517",
+    "source_phrase": "How are you? ",
+    "target_phrase": "你好吗？ Nǐ hǎo ma?",
+    "book_id": 33
+  },
+  {
+    "id": 119,
+    "created_at": "2016-04-04T05:03:19.625124",
+    "updated_at": "2016-04-04T05:03:19.625124",
+    "source_phrase": "Fine, thank you. ",
+    "target_phrase": "很好, 谢谢。 Hěn hǎo, xièxie.",
+    "book_id": 33
+  },
+  {
+    "id": 120,
+    "created_at": "2016-04-04T05:03:35.693206",
+    "updated_at": "2016-04-04T05:03:35.693206",
+    "source_phrase": "May I please ask, what is your name? ",
+    "target_phrase": "请问你叫什么名? Qǐngwèn nǐjiào shěnme míng?",
+    "book_id": 33
+  },
+  {
+    "id": 121,
+    "created_at": "2016-04-04T05:03:44.825622",
+    "updated_at": "2016-04-04T05:03:44.825622",
+    "source_phrase": "What is your name? ",
+    "target_phrase": "你叫什么名字？ Nǐ jiào shénme míngzi?",
+    "book_id": 33
+  },
+  {
+    "id": 21,
+    "created_at": "2016-03-31T21:53:10.276064",
+    "updated_at": "2016-03-31T21:53:10.276064",
+    "source_phrase": "Let's start",
+    "target_phrase": "Kom ons begin",
+    "book_id": 19
+  },
+  {
+    "id": 22,
+    "created_at": "2016-03-31T21:53:22.839877",
+    "updated_at": "2016-03-31T21:53:22.839877",
+    "source_phrase": "Hello",
+    "target_phrase": "Hallo",
+    "book_id": 19
+  },
+  {
+    "id": 23,
+    "created_at": "2016-03-31T21:53:32.254678",
+    "updated_at": "2016-03-31T21:53:32.254678",
+    "source_phrase": "Good morning",
+    "target_phrase": "Goeie môre",
+    "book_id": 19
+  },
+  {
+    "id": 24,
+    "created_at": "2016-03-31T21:53:44.787618",
+    "updated_at": "2016-03-31T21:53:44.787618",
+    "source_phrase": "Good afternoon",
+    "target_phrase": "Goeie middag",
+    "book_id": 19
+  },
+  {
+    "id": 25,
+    "created_at": "2016-03-31T21:53:54.304505",
+    "updated_at": "2016-03-31T21:53:54.304505",
+    "source_phrase": "Good evening",
+    "target_phrase": "Goeie naand",
+    "book_id": 19
+  },
+  {
+    "id": 26,
+    "created_at": "2016-03-31T21:54:03.946553",
+    "updated_at": "2016-03-31T21:54:03.946553",
+    "source_phrase": "How are you?",
+    "target_phrase": "Hoe gaan dit?",
+    "book_id": 19
+  },
+  {
+    "id": 27,
+    "created_at": "2016-03-31T21:54:13.880503",
+    "updated_at": "2016-03-31T21:54:13.880503",
+    "source_phrase": "Well thanks and with you?",
+    "target_phrase": "Goed dankie en met jou?",
+    "book_id": 19
+  },
+  {
+    "id": 28,
+    "created_at": "2016-03-31T21:54:26.502379",
+    "updated_at": "2016-03-31T21:54:26.502379",
+    "source_phrase": "Very well thanks.",
+    "target_phrase": "Baie goed dankie.",
+    "book_id": 19
+  },
+  {
+    "id": 29,
+    "created_at": "2016-03-31T21:54:39.113547",
+    "updated_at": "2016-03-31T21:54:39.113547",
+    "source_phrase": "Thank you.",
+    "target_phrase": "Dankie",
+    "book_id": 19
+  },
+  {
+    "id": 30,
+    "created_at": "2016-03-31T21:54:55.032729",
+    "updated_at": "2016-03-31T21:54:55.032729",
+    "source_phrase": "What is your name?",
+    "target_phrase": "My naam is ~",
+    "book_id": 19
+  },
+  {
+    "id": 31,
+    "created_at": "2016-03-31T21:55:12.323866",
+    "updated_at": "2016-03-31T21:55:12.323866",
+    "source_phrase": "My name is ~.",
+    "target_phrase": "My naam is ~",
+    "book_id": 19
+  },
+  {
+    "id": 32,
+    "created_at": "2016-03-31T21:55:24.249438",
+    "updated_at": "2016-03-31T21:55:24.249438",
+    "source_phrase": "Pleased to meet you.",
+    "target_phrase": "Aangename kennis",
+    "book_id": 19
+  },
+  {
+    "id": 33,
+    "created_at": "2016-03-31T22:09:46.533102",
+    "updated_at": "2016-03-31T22:09:46.533102",
+    "source_phrase": "Where are you from?",
+    "target_phrase": "Waar kom jy vandaan?",
+    "book_id": 19
+  },
+  {
+    "id": 34,
+    "created_at": "2016-03-31T22:10:00.777244",
+    "updated_at": "2016-03-31T22:10:00.777244",
+    "source_phrase": "I come from ~.",
+    "target_phrase": "Ek kom van ~ af.",
+    "book_id": 19
+  },
+  {
+    "id": 35,
+    "created_at": "2016-03-31T22:10:10.642894",
+    "updated_at": "2016-03-31T22:10:10.642894",
+    "source_phrase": "I cannot speak Afrikaans.",
+    "target_phrase": "Ek kan nie Afrikaans praat nie",
+    "book_id": 19
+  },
+  {
+    "id": 36,
+    "created_at": "2016-03-31T22:10:19.000157",
+    "updated_at": "2016-03-31T22:10:19.000157",
+    "source_phrase": "I am learning Afrikaans.",
+    "target_phrase": "Ek leer Afrikaans",
+    "book_id": 19
+  },
+  {
+    "id": 37,
+    "created_at": "2016-03-31T22:10:26.100104",
+    "updated_at": "2016-03-31T22:10:26.100104",
+    "source_phrase": "I can speak Afrikaans.",
+    "target_phrase": "Ek kan Afrikaans praat",
+    "book_id": 19
+  },
+  {
+    "id": 38,
+    "created_at": "2016-03-31T22:10:38.114237",
+    "updated_at": "2016-03-31T22:10:38.114237",
+    "source_phrase": "Goodbye",
+    "target_phrase": "Totsiens",
+    "book_id": 19
+  },
+  {
+    "id": 45,
+    "created_at": "2016-04-01T18:42:43.371565",
+    "updated_at": "2016-04-01T18:42:43.371565",
+    "source_phrase": "Hello.",
+    "target_phrase": "你好。 Nǐ hǎo.",
+    "book_id": 23
+  },
+  {
+    "id": 46,
+    "created_at": "2016-04-01T18:42:54.09221",
+    "updated_at": "2016-04-01T18:42:54.09221",
+    "source_phrase": "How are you? ",
+    "target_phrase": "你好嗎？ Nǐ hǎo ma?",
+    "book_id": 23
+  },
+  {
+    "id": 47,
+    "created_at": "2016-04-01T18:43:07.884357",
+    "updated_at": "2016-04-01T18:43:07.884357",
+    "source_phrase": "Fine, thank you. ",
+    "target_phrase": "很好, 謝謝。 Hěn hǎo, xièxie.",
+    "book_id": 23
+  },
+  {
+    "id": 48,
+    "created_at": "2016-04-01T18:43:21.147818",
+    "updated_at": "2016-04-01T18:43:21.147818",
+    "source_phrase": "What is your (first) name? ",
+    "target_phrase": "你叫什麼名字？ Nǐ jiào shénme míngzi?",
+    "book_id": 23
+  },
+  {
+    "id": 49,
+    "created_at": "2016-04-01T18:43:34.603117",
+    "updated_at": "2016-04-01T18:43:34.603117",
+    "source_phrase": "My name is ______ . ",
+    "target_phrase": "我叫 _____ 。 Wǒ jiào ______ .",
+    "book_id": 23
+  },
+  {
+    "id": 50,
+    "created_at": "2016-04-01T18:43:47.856555",
+    "updated_at": "2016-04-01T18:43:47.856555",
+    "source_phrase": "Nice to meet you. ",
+    "target_phrase": "很高興認識你。 Hěn gāoxìng rènshì nǐ.",
+    "book_id": 23
+  },
+  {
+    "id": 51,
+    "created_at": "2016-04-01T18:44:00.399959",
+    "updated_at": "2016-04-01T18:44:00.399959",
+    "source_phrase": "Please. ",
+    "target_phrase": "請。 Qǐng.",
+    "book_id": 23
+  },
+  {
+    "id": 52,
+    "created_at": "2016-04-01T18:44:29.256508",
+    "updated_at": "2016-04-01T18:44:29.256508",
+    "source_phrase": "Thank you. ",
+    "target_phrase": "謝謝。 xièxie.",
+    "book_id": 23
+  },
+  {
+    "id": 53,
+    "created_at": "2016-04-01T18:44:37.175838",
+    "updated_at": "2016-04-01T18:44:37.175838",
+    "source_phrase": "You're welcome. ",
+    "target_phrase": "不客氣。 Bú kèqi.",
+    "book_id": 23
+  },
+  {
+    "id": 54,
+    "created_at": "2016-04-01T18:44:47.133219",
+    "updated_at": "2016-04-01T18:44:47.133219",
+    "source_phrase": "Excuse me. (getting attention) ",
+    "target_phrase": "請問 qǐng wèn.",
+    "book_id": 23
+  },
+  {
+    "id": 55,
+    "created_at": "2016-04-01T18:44:57.741092",
+    "updated_at": "2016-04-01T18:44:57.741092",
+    "source_phrase": "Excuse me. (begging pardon) ",
+    "target_phrase": "打擾一下。 Dǎrǎo yixià ; 麻煩您一下, Máfan nǐ yíxià.",
+    "book_id": 23
+  },
+  {
+    "id": 56,
+    "created_at": "2016-04-01T18:45:12.142335",
+    "updated_at": "2016-04-01T18:45:12.142335",
+    "source_phrase": "I'm sorry. ",
+    "target_phrase": "對不起。 Duìbùqǐ.",
+    "book_id": 23
+  },
+  {
+    "id": 57,
+    "created_at": "2016-04-01T18:45:22.099438",
+    "updated_at": "2016-04-01T18:45:22.099438",
+    "source_phrase": "Goodbye ",
+    "target_phrase": "再見。 Zàijiàn.",
+    "book_id": 23
+  },
+  {
+    "id": 58,
+    "created_at": "2016-04-01T18:45:31.153693",
+    "updated_at": "2016-04-01T18:45:31.153693",
+    "source_phrase": "Goodbye (informal) ",
+    "target_phrase": "拜拜。 Bai-bai. (Byebye)",
+    "book_id": 23
+  },
+  {
+    "id": 59,
+    "created_at": "2016-04-01T18:45:41.075099",
+    "updated_at": "2016-04-01T18:45:41.075099",
+    "source_phrase": "I can't speak Chinese. ",
+    "target_phrase": "我不會說漢語。 Wǒ bú huì shuō hànyǔ.",
+    "book_id": 23
+  },
+  {
+    "id": 60,
+    "created_at": "2016-04-01T18:45:56.961311",
+    "updated_at": "2016-04-01T18:45:56.961311",
+    "source_phrase": "Do you speak English? ",
+    "target_phrase": "你會說英語嗎？ Nǐ huì shuō yīngyǔ ma?",
+    "book_id": 23
+  },
+  {
+    "id": 61,
+    "created_at": "2016-04-01T18:46:08.795195",
+    "updated_at": "2016-04-01T18:46:08.795195",
+    "source_phrase": "Is there someone here who speaks English? ",
+    "target_phrase": "這裏有人會說英語嗎？ Zhèlǐ yǒu rén huì shuō Yīngyǔ ma?",
+    "book_id": 23
+  },
+  {
+    "id": 62,
+    "created_at": "2016-04-01T18:46:16.963588",
+    "updated_at": "2016-04-01T18:46:16.963588",
+    "source_phrase": "Help! (in emergencies)",
+    "target_phrase": "救命! Jiù mìng!",
+    "book_id": 23
+  },
+  {
+    "id": 63,
+    "created_at": "2016-04-01T18:46:25.445747",
+    "updated_at": "2016-04-01T18:46:25.445747",
+    "source_phrase": "Good morning. ",
+    "target_phrase": "早安。 Zǎo ān.",
+    "book_id": 23
+  },
+  {
+    "id": 64,
+    "created_at": "2016-04-01T18:46:37.652235",
+    "updated_at": "2016-04-01T18:46:37.652235",
+    "source_phrase": "Good evening. ",
+    "target_phrase": "晚上好。 Wǎnshàng hǎo.",
+    "book_id": 23
+  },
+  {
+    "id": 65,
+    "created_at": "2016-04-01T18:46:48.699673",
+    "updated_at": "2016-04-01T18:46:48.699673",
+    "source_phrase": "Good night. ",
+    "target_phrase": "晚安。 Wǎn ān.",
+    "book_id": 23
+  },
+  {
+    "id": 66,
+    "created_at": "2016-04-01T19:14:27.30171",
+    "updated_at": "2016-04-01T19:14:27.30171",
+    "source_phrase": "I don't understand. ",
+    "target_phrase": "我聽不懂。 Wǒ tīng bù dǒng.",
+    "book_id": 23
+  },
+  {
+    "id": 67,
+    "created_at": "2016-04-01T19:14:35.780452",
+    "updated_at": "2016-04-01T19:14:35.780452",
+    "source_phrase": "Where is the toilet? ",
+    "target_phrase": "廁所在哪里？ Cèsuŏ zài nǎli?",
+    "book_id": 23
+  },
+  {
+    "id": 108,
+    "created_at": "2016-04-03T01:54:56.424091",
+    "updated_at": "2016-04-08T17:31:07.432622",
+    "source_phrase": "Let's start",
+    "target_phrase": "Kom ons begin",
+    "book_id": 36
+  },
+  {
+    "id": 135,
+    "created_at": "2016-04-08T17:31:20.408377",
+    "updated_at": "2016-04-08T17:31:20.408377",
+    "source_phrase": "Hello",
+    "target_phrase": "Hallo",
+    "book_id": 36
+  },
+  {
+    "id": 136,
+    "created_at": "2016-04-08T17:31:31.439294",
+    "updated_at": "2016-04-08T17:31:31.439294",
+    "source_phrase": "Good morning",
+    "target_phrase": "Goeie môre",
+    "book_id": 36
+  },
+  {
+    "id": 137,
+    "created_at": "2016-04-08T17:31:41.141695",
+    "updated_at": "2016-04-08T17:31:41.141695",
+    "source_phrase": "Good afternoon",
+    "target_phrase": "Goeie middag",
+    "book_id": 36
+  },
+  {
+    "id": 138,
+    "created_at": "2016-04-08T17:31:50.830591",
+    "updated_at": "2016-04-08T17:31:50.830591",
+    "source_phrase": "How are you?",
+    "target_phrase": "Hoe gaan dit?",
+    "book_id": 36
+  },
+  {
+    "id": 139,
+    "created_at": "2016-04-08T17:32:08.75668",
+    "updated_at": "2016-04-08T17:32:08.75668",
+    "source_phrase": "Well thanks, and with you?",
+    "target_phrase": "Goed dankie en met jou?",
+    "book_id": 36
+  },
+  {
+    "id": 140,
+    "created_at": "2016-04-08T17:32:22.708915",
+    "updated_at": "2016-04-08T17:32:22.708915",
+    "source_phrase": "Ver well thanks.",
+    "target_phrase": "Baie goed dankie.",
+    "book_id": 36
+  },
+  {
+    "id": 141,
+    "created_at": "2016-04-08T17:32:33.355688",
+    "updated_at": "2016-04-08T17:32:33.355688",
+    "source_phrase": "Thank you.",
+    "target_phrase": "Dankie.",
+    "book_id": 36
+  },
+  {
+    "id": 142,
+    "created_at": "2016-04-08T17:32:47.469796",
+    "updated_at": "2016-04-08T17:32:58.211127",
+    "source_phrase": "What is your name?",
+    "target_phrase": "Wat is jou naam?",
+    "book_id": 36
+  },
+  {
+    "id": 143,
+    "created_at": "2016-04-08T17:39:34.233572",
+    "updated_at": "2016-04-08T17:39:34.233572",
+    "source_phrase": "My name is ~.",
+    "target_phrase": "My namm is ~.",
+    "book_id": 36
+  },
+  {
+    "id": 144,
+    "created_at": "2016-04-08T17:39:46.173279",
+    "updated_at": "2016-04-08T17:39:46.173279",
+    "source_phrase": "Pleased to meet you.",
+    "target_phrase": "Aangename kennis",
+    "book_id": 36
+  },
+  {
+    "id": 145,
+    "created_at": "2016-04-08T17:40:00.388376",
+    "updated_at": "2016-04-08T17:40:00.388376",
+    "source_phrase": "Where are you from?",
+    "target_phrase": "War kom jy vandaan",
+    "book_id": 36
+  },
+  {
+    "id": 146,
+    "created_at": "2016-04-08T17:40:14.861967",
+    "updated_at": "2016-04-08T17:40:14.861967",
+    "source_phrase": "I come from ~.",
+    "target_phrase": "Ek kom van ~ af.",
+    "book_id": 36
+  },
+  {
+    "id": 147,
+    "created_at": "2016-04-08T17:40:34.731377",
+    "updated_at": "2016-04-08T17:40:34.731377",
+    "source_phrase": "I cannot speak Afrikaans.",
+    "target_phrase": "Ek kan nie Afrikaans praat nie.",
+    "book_id": 36
+  },
+  {
+    "id": 148,
+    "created_at": "2016-04-08T17:40:46.425597",
+    "updated_at": "2016-04-08T17:40:46.425597",
+    "source_phrase": "I am learning Afrikaans.",
+    "target_phrase": "Ek leer Afrikaans",
+    "book_id": 36
+  },
+  {
+    "id": 149,
+    "created_at": "2016-04-08T17:41:00.368446",
+    "updated_at": "2016-04-08T17:41:00.368446",
+    "source_phrase": "I can speak Afrikaans.",
+    "target_phrase": "Ek kan Afrikaans praat.",
+    "book_id": 36
+  },
+  {
+    "id": 88,
+    "created_at": "2016-04-02T19:15:17.107517",
+    "updated_at": "2016-04-02T19:15:17.107517",
+    "source_phrase": "sdfdsf",
+    "target_phrase": "sdfdsf",
+    "book_id": 27
+  },
+  {
+    "id": 89,
+    "created_at": "2016-04-02T19:17:50.018389",
+    "updated_at": "2016-04-02T19:17:50.018389",
+    "source_phrase": "sdfoi",
+    "target_phrase": "sdfoi",
+    "book_id": 27
+  },
+  {
+    "id": 90,
+    "created_at": "2016-04-02T19:17:54.159908",
+    "updated_at": "2016-04-02T19:17:54.159908",
+    "source_phrase": "sdfsdfsdfoi",
+    "target_phrase": "sdfsdfsdfoi",
+    "book_id": 27
+  },
+  {
+    "id": 91,
+    "created_at": "2016-04-02T19:27:18.044848",
+    "updated_at": "2016-04-02T19:27:18.044848",
+    "source_phrase": "dsfdsf",
+    "target_phrase": "dsfdsf",
+    "book_id": 27
+  },
+  {
+    "id": 92,
+    "created_at": "2016-04-02T19:37:56.631721",
+    "updated_at": "2016-04-02T19:37:56.631721",
+    "source_phrase": "source",
+    "target_phrase": "target",
+    "book_id": 27
+  },
+  {
+    "id": 95,
+    "created_at": "2016-04-02T19:40:33.897819",
+    "updated_at": "2016-04-02T19:40:33.897819",
+    "source_phrase": "sdfdd",
+    "target_phrase": "aaa",
+    "book_id": 27
+  },
+  {
+    "id": 93,
+    "created_at": "2016-04-02T19:38:58.46128",
+    "updated_at": "2016-04-02T19:59:04.292487",
+    "source_phrase": "sdfoi",
+    "target_phrase": "farts",
+    "book_id": 27
+  },
+  {
+    "id": 94,
+    "created_at": "2016-04-02T19:40:29.543979",
+    "updated_at": "2016-04-02T19:59:49.355809",
+    "source_phrase": "farts",
+    "target_phrase": "something",
+    "book_id": 27
+  },
+  {
+    "id": 150,
+    "created_at": "2016-04-08T17:41:10.040017",
+    "updated_at": "2016-04-08T17:41:10.040017",
+    "source_phrase": "Goodbye",
+    "target_phrase": "Totsiens",
+    "book_id": 36
+  },
+  {
+    "id": 151,
+    "created_at": "2016-04-08T17:51:17.219771",
+    "updated_at": "2016-04-08T17:51:17.219771",
+    "source_phrase": "Welcome",
+    "target_phrase": "Καλώς Όρισες (Kalós órises)",
+    "book_id": 42
+  },
+  {
+    "id": 152,
+    "created_at": "2016-04-08T17:51:26.965261",
+    "updated_at": "2016-04-08T17:51:26.965261",
+    "source_phrase": "Hello",
+    "target_phrase": "Γειά! (Ya) ",
+    "book_id": 42
+  },
+  {
+    "id": 153,
+    "created_at": "2016-04-08T19:06:46.909621",
+    "updated_at": "2016-04-08T19:06:46.909621",
+    "source_phrase": "Hello (on phone)",
+    "target_phrase": "Έλα (Éla)",
+    "book_id": 42
+  },
+  {
+    "id": 154,
+    "created_at": "2016-04-08T19:06:58.89404",
+    "updated_at": "2016-04-08T19:06:58.89404",
+    "source_phrase": "How are you?",
+    "target_phrase": "Πώς είσαι; (Pos íse?)",
+    "book_id": 42
+  },
+  {
+    "id": 155,
+    "created_at": "2016-04-08T19:07:11.787324",
+    "updated_at": "2016-04-08T19:07:11.787324",
+    "source_phrase": "Reply to 'How are you?'",
+    "target_phrase": "Καλά (είμαι), ευχαριστώ. Εσύ; (Kalá [íme], efharistó. Esí?)",
+    "book_id": 42
+  },
+  {
+    "id": 156,
+    "created_at": "2016-04-08T19:07:38.21665",
+    "updated_at": "2016-04-08T19:07:38.21665",
+    "source_phrase": "Long time no see\\t",
+    "target_phrase": "Καιρό έχω να σε δω! (Keró ého na se do)",
+    "book_id": 42
+  },
+  {
+    "id": 157,
+    "created_at": "2016-04-08T19:07:57.665885",
+    "updated_at": "2016-04-08T19:07:57.665885",
+    "source_phrase": "What's your name?\\t",
+    "target_phrase": "Πώς σε λένε; (Pós se léne?)",
+    "book_id": 42
+  },
+  {
+    "id": 227,
+    "created_at": "2016-07-14T23:48:29.660136",
+    "updated_at": "2016-07-16T21:04:07.303257",
+    "source_phrase": "See you",
+    "target_phrase": "jaa - じゃあ",
+    "book_id": 56
+  },
+  {
+    "id": 228,
+    "created_at": "2016-07-14T23:48:36.659816",
+    "updated_at": "2016-07-16T21:04:12.395468",
+    "source_phrase": "Goodbye",
+    "target_phrase": "sayonara - さようなら",
+    "book_id": 56
+  },
+  {
+    "id": 226,
+    "created_at": "2016-07-14T23:48:20.834761",
+    "updated_at": "2016-07-16T21:04:20.35585",
+    "source_phrase": "Good night",
+    "target_phrase": "oyasumi (nasai) - おやすみ(なさい)",
+    "book_id": 56
+  },
+  {
+    "id": 225,
+    "created_at": "2016-07-14T23:48:06.566496",
+    "updated_at": "2016-07-16T21:04:24.067253",
+    "source_phrase": "Good evening",
+    "target_phrase": "\\t konbanwa - こんばんは",
+    "book_id": 56
+  },
+  {
+    "id": 196,
+    "created_at": "2016-04-15T20:05:49.76794",
+    "updated_at": "2016-07-18T18:37:29.885753",
+    "source_phrase": "Do you speak English?",
+    "target_phrase": "¿Habla inglés?",
+    "book_id": 41
+  },
+  {
+    "id": 197,
+    "created_at": "2016-04-15T20:06:09.694224",
+    "updated_at": "2016-07-18T18:16:48.9532",
+    "source_phrase": "Do you speak Spanish?",
+    "target_phrase": "¿Habla usted Español?",
+    "book_id": 41
+  },
+  {
+    "id": 174,
+    "created_at": "2016-04-15T20:01:16.919376",
+    "updated_at": "2016-04-15T20:01:16.919376",
+    "source_phrase": "Reply to 'How are you?'",
+    "target_phrase": "Bien Gracias, ¿y tú?",
+    "book_id": 41
+  },
+  {
+    "id": 175,
+    "created_at": "2016-04-15T20:01:36.758303",
+    "updated_at": "2016-04-15T20:01:36.758303",
+    "source_phrase": "Long time no see",
+    "target_phrase": "¡Cuánto tiempo!",
+    "book_id": 41
+  },
+  {
+    "id": 176,
+    "created_at": "2016-04-15T20:01:48.340168",
+    "updated_at": "2016-04-15T20:01:48.340168",
+    "source_phrase": "What's your name?",
+    "target_phrase": "¿Cómo te llamas?",
+    "book_id": 41
+  },
+  {
+    "id": 177,
+    "created_at": "2016-04-15T20:02:03.451775",
+    "updated_at": "2016-04-15T20:02:03.451775",
+    "source_phrase": "My name is ~",
+    "target_phrase": "Mi nombre es ~",
+    "book_id": 41
+  },
+  {
+    "id": 178,
+    "created_at": "2016-04-15T20:02:14.275403",
+    "updated_at": "2016-04-15T20:02:14.275403",
+    "source_phrase": "Where are you from?",
+    "target_phrase": "¿De dónde eres?",
+    "book_id": 41
+  },
+  {
+    "id": 179,
+    "created_at": "2016-04-15T20:02:19.874689",
+    "updated_at": "2016-04-15T20:02:19.874689",
+    "source_phrase": "I'm from ~",
+    "target_phrase": "Soy de ~",
+    "book_id": 41
+  },
+  {
+    "id": 180,
+    "created_at": "2016-04-15T20:02:26.46728",
+    "updated_at": "2016-04-15T20:02:26.46728",
+    "source_phrase": "Pleased to meet you",
+    "target_phrase": "Mucho gusto",
+    "book_id": 41
+  },
+  {
+    "id": 181,
+    "created_at": "2016-04-15T20:02:33.322864",
+    "updated_at": "2016-04-15T20:02:33.322864",
+    "source_phrase": "Good morning",
+    "target_phrase": "Buenos dias",
+    "book_id": 41
+  },
+  {
+    "id": 182,
+    "created_at": "2016-04-15T20:02:39.202656",
+    "updated_at": "2016-04-15T20:02:39.202656",
+    "source_phrase": "Good afternoon",
+    "target_phrase": "Buenas tardes",
+    "book_id": 41
+  },
+  {
+    "id": 184,
+    "created_at": "2016-04-15T20:03:02.264462",
+    "updated_at": "2016-04-15T20:03:02.264462",
+    "source_phrase": "Good night",
+    "target_phrase": "Buenas noches",
+    "book_id": 41
+  },
+  {
+    "id": 183,
+    "created_at": "2016-04-15T20:02:50.985124",
+    "updated_at": "2016-04-15T20:03:18.936857",
+    "source_phrase": "Good evening",
+    "target_phrase": "Buenas tardes / Buenas noches",
+    "book_id": 41
+  },
+  {
+    "id": 185,
+    "created_at": "2016-04-15T20:03:32.888517",
+    "updated_at": "2016-04-15T20:03:32.888517",
+    "source_phrase": "Goodbye",
+    "target_phrase": "Adiós",
+    "book_id": 41
+  },
+  {
+    "id": 186,
+    "created_at": "2016-04-15T20:03:52.398359",
+    "updated_at": "2016-04-15T20:03:52.398359",
+    "source_phrase": "Good luck",
+    "target_phrase": "¡Buena suerte!",
+    "book_id": 41
+  },
+  {
+    "id": 187,
+    "created_at": "2016-04-15T20:04:01.925207",
+    "updated_at": "2016-04-15T20:04:01.925207",
+    "source_phrase": "Cheers!",
+    "target_phrase": "¡Salud!",
+    "book_id": 41
+  },
+  {
+    "id": 188,
+    "created_at": "2016-04-15T20:04:13.821415",
+    "updated_at": "2016-04-15T20:04:13.821415",
+    "source_phrase": "Have a nice day",
+    "target_phrase": "¡Que pase un buen día!",
+    "book_id": 41
+  },
+  {
+    "id": 189,
+    "created_at": "2016-04-15T20:04:29.355249",
+    "updated_at": "2016-04-15T20:04:29.355249",
+    "source_phrase": "Bon appetit / have a nice meal",
+    "target_phrase": "¡Buen provecho!",
+    "book_id": 41
+  },
+  {
+    "id": 190,
+    "created_at": "2016-04-15T20:04:40.763173",
+    "updated_at": "2016-04-15T20:04:40.763173",
+    "source_phrase": "Bon voyage / Have a good journey",
+    "target_phrase": "¡Buen viaje!",
+    "book_id": 41
+  },
+  {
+    "id": 191,
+    "created_at": "2016-04-15T20:04:51.676225",
+    "updated_at": "2016-04-15T20:04:51.676225",
+    "source_phrase": "I don't know",
+    "target_phrase": "No sé",
+    "book_id": 41
+  },
+  {
+    "id": 192,
+    "created_at": "2016-04-15T20:05:01.426141",
+    "updated_at": "2016-04-15T20:05:01.426141",
+    "source_phrase": "I understand ",
+    "target_phrase": "Entiendo",
+    "book_id": 41
+  },
+  {
+    "id": 193,
+    "created_at": "2016-04-15T20:05:08.466504",
+    "updated_at": "2016-04-15T20:05:08.466504",
+    "source_phrase": "I don't understand",
+    "target_phrase": "No entiendo",
+    "book_id": 41
+  },
+  {
+    "id": 194,
+    "created_at": "2016-04-15T20:05:20.904322",
+    "updated_at": "2016-04-15T20:05:20.904322",
+    "source_phrase": "Please speak more slowly",
+    "target_phrase": "Por favor hable más despacio",
+    "book_id": 41
+  },
+  {
+    "id": 195,
+    "created_at": "2016-04-15T20:05:39.560286",
+    "updated_at": "2016-04-15T20:05:39.560286",
+    "source_phrase": "Please write it down",
+    "target_phrase": "¿Puede escribirlo, por favor?",
+    "book_id": 41
+  },
+  {
+    "id": 198,
+    "created_at": "2016-04-15T20:06:27.468964",
+    "updated_at": "2016-07-18T18:19:34.227505",
+    "source_phrase": "Yes, I speak a little Spanish",
+    "target_phrase": "Sí, hablo un poquito de Español",
+    "book_id": 41
+  },
+  {
+    "id": 230,
+    "created_at": "2016-07-16T16:54:13.291025",
+    "updated_at": "2016-07-16T16:54:13.291025",
+    "source_phrase": "test",
+    "target_phrase": "test",
+    "book_id": 36
+  },
+  {
+    "id": 171,
+    "created_at": "2016-04-15T20:00:12.717709",
+    "updated_at": "2016-07-18T18:36:50.422658",
+    "source_phrase": "Welcome",
+    "target_phrase": "Bienvenido",
+    "book_id": 41
+  },
+  {
+    "id": 172,
+    "created_at": "2016-04-15T20:00:17.657418",
+    "updated_at": "2016-07-14T23:39:31.571643",
+    "source_phrase": "Hello",
+    "target_phrase": "Hola",
+    "book_id": 41
+  },
+  {
+    "id": 173,
+    "created_at": "2016-04-15T20:00:54.351251",
+    "updated_at": "2016-07-14T23:42:01.943359",
+    "source_phrase": "How are you?",
+    "target_phrase": "¿Cómo estás?",
+    "book_id": 41
+  },
+  {
+    "id": 222,
+    "created_at": "2016-07-14T23:47:06.037685",
+    "updated_at": "2016-07-14T23:47:06.037685",
+    "source_phrase": "Nice to meet you",
+    "target_phrase": "hajime mash'te - はじめまして",
+    "book_id": 56
+  },
+  {
+    "id": 223,
+    "created_at": "2016-07-14T23:47:44.655368",
+    "updated_at": "2016-07-14T23:47:44.655368",
+    "source_phrase": "Good morning",
+    "target_phrase": "ohayoo (gozaimas')  - おはよう(ございます)",
+    "book_id": 56
+  },
+  {
+    "id": 224,
+    "created_at": "2016-07-14T23:47:57.173622",
+    "updated_at": "2016-07-14T23:47:57.173622",
+    "source_phrase": "Good afternoon",
+    "target_phrase": "konnichiwa - こんにちは",
+    "book_id": 56
+  }
+]
